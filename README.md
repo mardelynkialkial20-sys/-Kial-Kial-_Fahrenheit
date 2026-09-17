@@ -2,9 +2,8 @@
 
 int main() {
 
-   float fahrenheit;
-
-   float celsius;
+    float fahrenheit;
+    float celsius;
     
    printf("Enter the fahrenheit value: ");
    scanf("%f", &fahrenheit);
