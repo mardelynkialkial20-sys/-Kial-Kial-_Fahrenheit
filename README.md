@@ -3,6 +3,7 @@
 int main() {
 
    float fahrenheit;
+
    float celsius;
     
    printf("Enter the fahrenheit value: ");
